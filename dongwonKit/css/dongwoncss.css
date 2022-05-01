@@ -1,0 +1,12 @@
+@charset "utf-8";
+h1, h2 {
+	color: #BDBDBD;
+}
+body {
+	font-family: 돋움, Dotum, Sans-Serief;
+	font-size: 75%; /* 16px x 0.75 = 12px */
+	line-height: 1.5; /* 12px x 1.5 = 18px */
+	color: #ececec;
+	background-image: url('../img/htmlcss2.jpg');
+	background-size: cover;
+}
